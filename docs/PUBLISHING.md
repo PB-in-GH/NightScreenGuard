@@ -17,7 +17,7 @@
 
 当前程序没有代码签名。不要将 GitHub 密码或令牌放入项目文件。使用你自己的 GitHub 登录流程。
 
-许可证为 MIT，发布时保留 LICENSE 和版权声明。
+自 1.1.1 起采用 PolyForm Noncommercial 1.0.0。发布时保留 LICENSE、NOTICE、AUTHORS.md 和 README 配图；第一作者 / 原开发者为 PB-in-GH。旧版 MIT 授权不受此次变更影响。
 
 ## English
 
@@ -34,7 +34,7 @@ For a new release:
 5. ZIP the portable `dist/` contents and separately archive tracked source. Calculate SHA-256 checksums.
 6. Create a GitHub Release with bilingual notes, the portable and source ZIPs, and checksum file.
 
-The application is unsigned. Never place GitHub credentials or tokens in project files. Use your own GitHub authentication flow. Preserve the MIT LICENSE and copyright notice when distributing.
+The application is unsigned. Never place GitHub credentials or tokens in project files. Use your own GitHub authentication flow. Starting with 1.1.1, use PolyForm Noncommercial 1.0.0 and include LICENSE, NOTICE, AUTHORS.md and README images in distributions. Credit PB-in-GH as the original author and developer. Earlier MIT grants are unaffected.
 
 
 ## 自动发布 / Automated publishing

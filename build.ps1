@@ -14,10 +14,10 @@ $metadata = Join-Path $PSScriptRoot 'src\AssemblyInfo.cs'
 $exe = Join-Path $outDir 'NightScreenGuard.exe'
 & $compiler /nologo /target:winexe /platform:x64 /optimize+ /utf8output /reference:System.Windows.Forms.dll /reference:System.Drawing.dll "/win32icon:$icon" "/win32manifest:$manifest" "/resource:$icon,NightScreenGuard.ico" "/out:$exe" $source $metadata
 if ($LASTEXITCODE -ne 0) { throw 'Compilation failed.' }
-foreach ($name in @('README.md', 'README.en.md', 'LICENSE', 'CONTRIBUTING.md', 'CHANGELOG.md')) {
+foreach ($name in @('README.md', 'README.en.md', 'LICENSE', 'NOTICE', 'AUTHORS.md', 'CONTRIBUTING.md', 'CHANGELOG.md')) {
     Copy-Item -LiteralPath (Join-Path $PSScriptRoot $name) -Destination $outDir -Force
 }
 $docsOut = Join-Path $outDir 'docs'
 New-Item -ItemType Directory -Path $docsOut -Force | Out-Null
-Get-ChildItem -LiteralPath (Join-Path $PSScriptRoot 'docs') -File | ForEach-Object { Copy-Item -LiteralPath $_.FullName -Destination $docsOut -Force }
+Get-ChildItem -LiteralPath (Join-Path $PSScriptRoot 'docs') | ForEach-Object { Copy-Item -LiteralPath $_.FullName -Destination $docsOut -Recurse -Force }
 Write-Host "Built: $exe"

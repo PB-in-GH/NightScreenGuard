@@ -1,33 +1,39 @@
-# 夜间息屏守护 · Night Screen Guard
+<p align="center">
+  <a href="README.md"><img src="docs/readme/zh-active.png" alt="简体中文 · 当前语言" width="112" height="38"></a>
+  <a href="README.en.md"><img src="docs/readme/en.png" alt="Switch to English" width="112" height="38"></a>
+</p>
 
-[中文](README.md) | [English](README.en.md)
+<p align="center"><img src="docs/readme/moon.png" alt="" width="64" height="64"></p>
+<h1 align="center">夜间息屏守护</h1>
+<p align="center"><strong>让 AI 继续忙碌，让你安心入眠。</strong></p>
+<p align="center">由 <a href="https://github.com/PB-in-GH">PB-in-GH</a> 开发 · 第一作者 / 原开发者</p>
 
-**[下载 Windows 版](https://github.com/PB-in-GH/NightScreenGuard/releases/latest) · [反馈问题](https://github.com/PB-in-GH/NightScreenGuard/issues)**
+<p align="center">
+  <a href="https://github.com/PB-in-GH/NightScreenGuard/releases/latest"><img src="docs/readme/download-zh.png" alt="下载 Windows 版" width="200" height="38"></a>
+</p>
 
-夜里想让电脑继续下载，屏幕的亮光却让你睡不着？好不容易关了屏，一条通知又把房间照亮？也担心屏幕亮上一整夜，时间久了会烧屏？
+---
 
-**试试夜间息屏守护——电脑继续忙，屏幕先休息。**
+夜里想让电脑上的 **AI Agent 继续跑任务**，屏幕的亮光却让你睡不着？明明已经关了屏，一条通知又把房间照亮？也担心屏幕整夜亮着，时间久了会烧屏？
 
-睡前轻轻一点，下载、渲染和后台任务照常跑，软件会尽量拦住通知等非本人操作引起的亮屏。早上起来，动动鼠标或按一下键盘，就能接着用。轻巧、免安装，解压就能用。
+**来试试夜间息屏守护吧。** 睡前轻轻一点，AI、下载、渲染和其他后台任务照常运行，软件会尽量挡住非本人操作引起的亮屏。早上动动鼠标或按一下键盘，就能继续使用。
 
-它不只是盖上一层黑色遮罩，而是请求关闭显示器。支持的显示器可以直接进入待机，让屏幕不再发光，少一分夜间打扰，也减少长时间亮屏带来的烧屏风险。
+它不只是盖上一层黑色遮罩，而是**请求关闭显示器**。支持的显示器可以直接进入待机，让屏幕不再发光，减少夜间打扰和长时间亮屏带来的烧屏风险。
 
-*实际息屏效果因显示器而异，偶尔仍可能短暂亮起。*
+![夜间息屏守护的实际中文界面](docs/readme/app-zh.png)
 
-![中文界面](docs/screenshot-zh.png)
+### 三步，安心入眠
 
-## 三步，给屏幕放个假
-
-1. 下载并解压 Windows 版，打开 `NightScreenGuard.exe`。
-2. 点击“开始守护”，松开键鼠，5 秒后息屏。
-3. 按键、点击或移动鼠标，即可恢复显示；移动唤亮可在界面中关闭。
-
-支持 **中文 / English** 切换。单击托盘月亮图标打开窗口，右键菜单可退出。系统月亮键保持原来的行为。
-
-快捷键：`Ctrl + Alt + F12` 开始或取消守护；`Ctrl + Alt + End` 停止守护。
-
-## 隐私
+1. **打开** — 下载并解压，运行 `NightScreenGuard.exe`。
+2. **息屏** — 点击“开始守护”，松开键鼠，5 秒后息屏。
+3. **唤亮** — 动动鼠标或按一下键盘，即可继续使用。
 
 不记录键鼠输入内容，不进行任何联网服务，所有功能均在本地运行。
 
-Windows 10/11 x64 · .NET Framework 4.8 · [MIT License](LICENSE)
+<sub>实际息屏效果因显示器而异，偶尔仍可能短暂亮起。</sub>
+
+---
+
+<p align="center">Windows 10/11 x64 · .NET Framework 4.8 · <a href="LICENSE">源码公开 · 非商业许可</a> · <a href="https://github.com/PB-in-GH/NightScreenGuard/issues">反馈问题</a></p>
+
+<p align="center"><sub>© 2026 PB-in-GH。本版本采用 PolyForm Noncommercial 1.0.0，不授予商用许可，分发时须保留作者署名与许可声明。<a href="NOTICE">旧版许可说明</a></sub></p>
