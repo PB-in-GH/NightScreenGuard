@@ -2,7 +2,7 @@
 
 ## 中文
 
-第一作者 / 原开发者为 [PB-in-GH](https://github.com/PB-in-GH)。贡献须同意以本项目的 PolyForm Noncommercial 1.0.0 许可发布，并保留现有作者及许可声明；贡献者保留自己贡献的著作权。
+第一作者 / 原开发者为 [PB-in-GH](https://github.com/PB-in-GH)。贡献须同意以本项目的 MIT + Commons Clause 1.0 许可发布，并保留现有作者及许可声明；贡献者保留自己贡献的著作权。
 
 1. 在 Windows x64 本地桌面开发，运行 `build.ps1` 和 `test.ps1 -UI`。
 2. 翻译集中在 `src/NightScreenGuard.cs` 的 `L10n` 类中。新增面向用户的文字时同时补上中文和英文，并查看两种语言的界面截图。
@@ -16,7 +16,7 @@
 
 ## English
 
-The original author and developer is [PB-in-GH](https://github.com/PB-in-GH). Contributions must be offered under this project's PolyForm Noncommercial 1.0.0 license, preserving existing attribution and license notices. Contributors retain copyright in their own contributions.
+The original author and developer is [PB-in-GH](https://github.com/PB-in-GH). Contributions must be offered under this project's MIT + Commons Clause 1.0 license, preserving existing attribution and license notices. Contributors retain copyright in their own contributions.
 
 1. Develop on a local Windows x64 desktop. Run `build.ps1` and `test.ps1 -UI`.
 2. Translations live in the `L10n` class in `src/NightScreenGuard.cs`. Add both languages for user-visible text and inspect both UI previews.

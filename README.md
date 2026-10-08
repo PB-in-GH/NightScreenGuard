@@ -34,6 +34,6 @@
 
 ---
 
-<p align="center">Windows 10/11 x64 · .NET Framework 4.8 · <a href="LICENSE">源码公开 · 非商业许可</a> · <a href="https://github.com/PB-in-GH/NightScreenGuard/issues">反馈问题</a></p>
+<p align="center">Windows 10/11 x64 · .NET Framework 4.8 · <a href="LICENSE">源码公开 · 禁止转售</a> · <a href="https://github.com/PB-in-GH/NightScreenGuard/issues">反馈问题</a></p>
 
-<p align="center"><sub>© 2026 PB-in-GH。本版本采用 PolyForm Noncommercial 1.0.0，不授予商用许可，分发时须保留作者署名与许可声明。<a href="NOTICE">旧版许可说明</a></sub></p>
+<p align="center"><sub>© 2026 PB-in-GH。本版本采用 MIT + Commons Clause 1.0。个人及企业可免费使用；禁止售卖软件本身或收费提供主要价值来自其功能的产品与服务。分发须保留作者及完整许可声明。<a href="NOTICE">旧版许可说明</a></sub></p>

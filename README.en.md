@@ -34,6 +34,6 @@ No keyboard or mouse input content is recorded, no online services are used, and
 
 ---
 
-<p align="center">Windows 10/11 x64 · .NET Framework 4.8 · <a href="LICENSE">Source available · Noncommercial</a> · <a href="https://github.com/PB-in-GH/NightScreenGuard/issues">Report an issue</a></p>
+<p align="center">Windows 10/11 x64 · .NET Framework 4.8 · <a href="LICENSE">Source available · No resale</a> · <a href="https://github.com/PB-in-GH/NightScreenGuard/issues">Report an issue</a></p>
 
-<p align="center"><sub>© 2026 PB-in-GH. This version uses PolyForm Noncommercial 1.0.0, grants no commercial-use license, and requires preservation of attribution and license notices when distributing. <a href="NOTICE">Earlier licensing</a></sub></p>
+<p align="center"><sub>© 2026 PB-in-GH. MIT + Commons Clause 1.0. Free for personal and business use; selling the software itself or charging for products or services whose value derives substantially from its functionality is prohibited. Preserve attribution and the full license when distributing. <a href="NOTICE">Earlier licensing</a></sub></p>

@@ -1,22 +1,35 @@
 Night Screen Guard / 夜间息屏守护
+Copyright (c) 2026 PB-in-GH (https://github.com/PB-in-GH)
+第一作者 / 原开发者 · Original author and developer: PB-in-GH
+Project: https://github.com/PB-in-GH/NightScreenGuard
 
-Required Notice: Copyright (c) 2026 PB-in-GH (https://github.com/PB-in-GH)
-Required Notice: Original author and developer: PB-in-GH. Project: https://github.com/PB-in-GH/NightScreenGuard
+自 1.1.2 起采用 MIT + Commons Clause 1.0；两部分共同构成许可，不可任选其一。
+这是源码公开许可，不是纯 MIT 或 OSI 定义的开源许可。
 
-第一作者 / 原开发者：PB-in-GH。
+个人和企业可以免费使用、修改及分享，包括办公、商业项目和 AI 任务。
+限制针对收费提供软件本身：不能打包售卖、改名转卖、收费下载，或向第三方
+收费提供全部或主要价值来自本软件功能的产品或服务。
+这不禁止使用本软件完成商业工作，也不一概禁止包含它的独立增值产品。
+分发时须保留版权、作者及完整许可声明，包括 Commons Clause。
+以上为便于理解的摘要；具体权利及限制以 LICENSE 英文原文为准。
 
-自 1.1.1 起，本项目以 PolyForm Noncommercial 1.0.0 提供，不授予商用许可。
-非商业用途的范围及分发条件以 LICENSE 原文为准。
-分发时须保留许可证及上述 Required Notice 声明。
+1.1.0 及其他此前按 MIT 发布的内容仍保留原 MIT 授权。
+1.1.1 曾按 PolyForm Noncommercial 1.0.0 发布；本次变更不撤销此前授予的许可。
 
-此前已按 MIT 提供的版本与内容仍保留原有 MIT 授权。
-本次许可变更不撤销已有授权，也不追溯限制旧版的合法使用。
+Starting with 1.1.2, the license is MIT + Commons Clause 1.0. Both parts
+apply together; recipients may not choose MIT alone. This is source-available,
+not plain MIT or OSI-defined open source.
 
-Starting with 1.1.1, this project is offered under PolyForm Noncommercial 1.0.0,
-which does not grant a commercial-use license. See LICENSE for permitted
-purposes and distribution conditions. Preserve the license and Required Notice
-lines above when distributing.
+Individuals and businesses may use, modify and share the software free of
+charge, including for office work, commercial projects and AI tasks.
+The restriction concerns charging for the software itself: repackaging or
+rebranding it for sale, paid downloads, or charging third parties for a product
+or service whose value derives entirely or substantially from its functionality.
+It does not prohibit using the software for commercial work or categorically
+ban independently valuable products that include it. Preserve copyright,
+attribution and the full combined license, including Commons Clause, when
+distributing. This is a summary; the English text of LICENSE governs.
 
-Versions and material previously offered under MIT retain their existing MIT
-grants. This change does not revoke those grants or retroactively restrict
-permitted use of earlier material.
+1.1.0 and other material previously offered under MIT retain their MIT grants.
+1.1.1 was offered under PolyForm Noncommercial 1.0.0. This change does not revoke
+previously granted licenses.
