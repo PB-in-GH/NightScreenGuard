@@ -4,15 +4,19 @@
 
 **[Download for Windows](https://github.com/PB-in-GH/NightScreenGuard/releases/latest) · [Report an issue](https://github.com/PB-in-GH/NightScreenGuard/issues)**
 
-A lightweight, portable Windows utility. Turn off your screens at night while downloads, computation and other background tasks keep running.
+Leaving a download running overnight, but the screen's glow keeps you awake? Turned it off, only for a notification to light up the room again? Worried about burn-in from leaving your display on all night?
 
-It goes beyond a black overlay: it asks Windows to power off your displays and tries to keep them off when notifications or other events wake them without your input. Use your keyboard or mouse to stop guarding and restore the display.
+**Try Night Screen Guard. Let your computer work while your screen rests.**
 
-Compatible monitors can enter standby with the screen fully dark, reducing prolonged screen use, burn-in risk and light that may disturb your sleep. Behavior depends on your monitor; brief wake-ups may still occur.
+One click before bed keeps downloads, renders and background tasks running while the app works to stop notifications and other unwanted wake-ups from lighting your screen. In the morning, move your mouse or press a key to pick up where you left off. Lightweight and portable—just extract and run.
+
+It does more than put up a black overlay: it requests display power-off. Compatible monitors can enter standby with the screen fully dark, reducing nighttime light and the burn-in risk from prolonged screen use.
+
+*Results depend on your monitor; brief wake-ups may still occur.*
 
 ![English interface](docs/screenshot-en.png)
 
-## Use
+## Give your screen a break in three steps
 
 1. Download and extract the Windows build, then open `NightScreenGuard.exe`.
 2. Click **Start guarding**, release the keyboard and mouse, and wait five seconds.
