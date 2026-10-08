@@ -35,3 +35,10 @@ For a new release:
 6. Create a GitHub Release with bilingual notes, the portable and source ZIPs, and checksum file.
 
 The application is unsigned. Never place GitHub credentials or tokens in project files. Use your own GitHub authentication flow. Preserve the MIT LICENSE and copyright notice when distributing.
+
+
+## 自动发布 / Automated publishing
+
+将版本标签先推送到 GitHub，再向 main 提交 releases/v版本号.md 双语发布说明（例如 releases/v1.1.1.md）。发布工作流会从标签源码构建、测试并创建 Release，附上便携包、源码包和 SHA-256；已经发布的版本会跳过。也可在 Actions 手动运行 Publish portable release。
+
+Push a version tag first, then commit bilingual notes as releases/vVERSION.md on main (for example releases/v1.1.1.md). The publisher builds and tests the tagged source, creates the release with portable/source archives and checksums, and skips existing releases. It can also be started manually from Actions. The workflow only publishes from main.
