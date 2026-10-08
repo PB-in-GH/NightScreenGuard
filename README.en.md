@@ -6,7 +6,7 @@
 <p align="center"><img src="docs/readme/moon.png" alt="" width="64" height="64"></p>
 <h1 align="center">Night Screen Guard</h1>
 <p align="center"><strong>Let AI keep working. Let yourself rest.</strong></p>
-<p align="center">Developed by <a href="https://github.com/PB-in-GH">PB-in-GH</a> · Original author and developer</p>
+<p align="center">Developed by <a href="https://github.com/PB-in-GH">PB-in-GH</a></p>
 
 <p align="center">
   <a href="https://github.com/PB-in-GH/NightScreenGuard/releases/latest"><img src="docs/readme/download-en.png" alt="Download for Windows" width="240" height="38"></a>

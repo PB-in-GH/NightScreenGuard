@@ -6,7 +6,7 @@
 <p align="center"><img src="docs/readme/moon.png" alt="" width="64" height="64"></p>
 <h1 align="center">夜间息屏守护</h1>
 <p align="center"><strong>让 AI 继续忙碌，让你安心入眠。</strong></p>
-<p align="center">由 <a href="https://github.com/PB-in-GH">PB-in-GH</a> 开发 · 第一作者 / 原开发者</p>
+<p align="center">由 <a href="https://github.com/PB-in-GH">PB-in-GH</a> 开发</p>
 
 <p align="center">
   <a href="https://github.com/PB-in-GH/NightScreenGuard/releases/latest"><img src="docs/readme/download-zh.png" alt="下载 Windows 版" width="200" height="38"></a>
