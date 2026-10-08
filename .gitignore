@@ -1,0 +1,18 @@
+# Build and local verification
+dist/
+bin/
+obj/
+test-results/
+*.exe
+*.pdb
+*.zip
+
+# Local preferences and diagnostic data
+language.txt
+guard.log*
+*.log
+*.lnk
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
